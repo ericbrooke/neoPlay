@@ -1,0 +1,32 @@
+Feb 07, 2014 1:15:28 PM org.neo4j.server.logging.Logger log
+INFO: Setting startup timeout to: 120000ms based on -1
+Feb 07, 2014 1:15:29 PM org.neo4j.server.logging.Logger log
+INFO: Successfully started database
+Feb 07, 2014 1:15:29 PM org.neo4j.server.logging.Logger log
+INFO: Starting HTTP on port :7474 with 80 threads available
+Feb 07, 2014 1:15:29 PM org.neo4j.server.logging.Logger log
+INFO: Enabling HTTPS on port :7473
+Feb 07, 2014 1:15:29 PM org.neo4j.server.logging.Logger log
+INFO: No SSL certificate found, generating a self-signed certificate..
+Feb 07, 2014 1:15:29 PM org.neo4j.server.logging.Logger log
+INFO: Mounted discovery module at [/]
+Feb 07, 2014 1:15:29 PM org.neo4j.server.logging.Logger log
+INFO: Mounted REST API at [/db/data/]
+Feb 07, 2014 1:15:29 PM org.neo4j.server.logging.Logger log
+INFO: Mounted management API at [/db/manage/]
+Feb 07, 2014 1:15:29 PM org.neo4j.server.logging.Logger log
+INFO: Mounted webadmin at [/webadmin]
+Feb 07, 2014 1:15:29 PM org.neo4j.server.logging.Logger log
+INFO: Mounted Neo4j Browser at [/browser]
+Feb 07, 2014 1:15:29 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/webadmin] from [webadmin-html]
+Feb 07, 2014 1:15:29 PM org.neo4j.server.logging.Logger log
+INFO: Mounting static content at [/browser] from [browser]
+Feb 07, 2014 1:15:30 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Feb 07, 2014 1:15:30 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Feb 07, 2014 1:15:30 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.9 09/02/2011 11:17 AM'
+Feb 07, 2014 1:15:30 PM org.neo4j.server.logging.Logger log
+INFO: Remote interface ready and available at [http://localhost:7474/]
